@@ -1,6 +1,7 @@
 🤖 IA aplicada al Reclutamiento
 
 📌 Descripción
+
 Este proyecto explora el uso de análisis de datos e inteligencia artificial aplicada al reclutamiento, con el objetivo de analizar información de candidatos y generar insights que apoyen la toma de decisiones en procesos de selección.
 El foco está puesto en la preparación de datos, análisis exploratorio y comprensión de variables clave, sentando las bases para futuros modelos predictivos en contextos de Talent Analytics.
 
